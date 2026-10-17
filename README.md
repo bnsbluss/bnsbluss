@@ -11,12 +11,11 @@ Saya mengerjakan project-project ini secara mandiri, dengan sebagian proses peng
 ### 🧠 Fokus & Keahlian
 
 - 🎮 **Point Blank / Game Modding & Development Tools**
-- 🔬 **Reverse Engineering & Binary File Format Analysis**
+- 🔬 **Binary File Format Analysis**
 - 🧩 **I3 Engine / `.I3S` / `.I3CHR` / `.i3Pack` / `.RSC` / Animation**
 - 🐍 **Python Tooling & CLI**
 - 🪟 **Windows / PowerShell / C#**
 - 🌐 **PHP Native + PostgreSQL**
-- 🖥️ **Game Server Administration & Automation**
 - 🎨 **3D Model, Skin, Texture & Game Asset Pipeline**
 - 💻 **Teknik Komputer & Laptop**
 - 🛠️ **Membangun utility dari kebutuhan nyata**
@@ -37,9 +36,7 @@ Berikut beberapa project dan sistem yang saya kerjakan atau kembangkan. Sebagian
 | 📦 **I3Pack / RSC Tools** | Resource / Archive | Editor dan library untuk membaca, mengubah, mengekstrak, memasukkan kembali, dan memeriksa resource `.i3Pack` serta `.RSC`. |
 | 🎞️ **I3 Animation Tools** | Animation | Editor `.i3AnimPack` dan workflow animasi untuk membaca track, keyframe, durasi, serta memindahkan gerakan antar paket animasi. |
 | 🖥️ **Point Blank Server Ecosystem** | Game Server | Pengembangan dan administrasi ekosistem private server Point Blank, termasuk server, database, web account system, voucher, inbox, dan berbagai utility pendukung. |
-| 🛡️ **Server Watchdog** | Windows / Automation | Watchdog berbasis PowerShell untuk memantau `PBAuthServer`, `PBBattleServer`, dan `PBGameServer`, mendeteksi crash/stop, lalu melakukan restart otomatis. |
 | 🌐 **Web System** | PHP / PostgreSQL | Sistem web pendukung server dengan account, inbox, redeem voucher, package, dan integrasi pembayaran untuk distribusi item/game package. |
-| 💳 **Voucher & Payment System** | Backend / Payment | Sistem reservasi voucher, payment order, webhook, status pembayaran, redeem log, dan pengiriman voucher ke inbox setelah transaksi berhasil. |
 | 🎨 **Point Blank Asset / Texture Workflow** | 3D / Texture | Workflow pengolahan model, skin, texture, bone, LOD, material, dan asset game untuk kebutuhan modding serta pengembangan content. |
 
 > **Catatan:** Tidak semua project di atas merupakan repository publik. Sebagian adalah project pribadi, eksperimen, atau sistem yang digunakan dalam pengembangan server dan tooling.
