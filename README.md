@@ -14,7 +14,7 @@ Saya mengerjakan project-project ini secara mandiri, dengan sebagian proses peng
 - 🔬 **Binary File Format Analysis**
 - 🧩 **I3 Engine / `.I3S` / `.I3CHR` / `.i3Pack` / `.RSC` / Animation**
 - 🐍 **Python Tooling & CLI**
-- 🪟 **Windows / PowerShell / C#**
+- 💻 **Windows / PowerShell / C#**
 - 🌐 **PHP Native + PostgreSQL**
 - 🎨 **3D Model, Skin, Texture & Game Asset Pipeline**
 - 💻 **Teknik Komputer & Laptop**
