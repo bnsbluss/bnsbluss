@@ -129,19 +129,5 @@ Namun, **AI bukan pengganti proses pengembangan**. Setiap solusi tetap saya pela
 
 > **AI membantu mempercepat pemecahan masalah. Saya tetap bertanggung jawab atas implementasi, pengujian, dan hasil akhirnya.**
 
----
-
-# 📌 Project Philosophy
-
-Saya lebih tertarik pada project yang:
-
-- 🔍 **Bisa dipahami sampai level struktur internalnya**
-- 🛠️ **Menyelesaikan masalah yang benar-benar terjadi**
-- ⚙️ **Bisa diotomatisasi**
-- 🧪 **Bisa diuji dan diverifikasi**
-- 🧱 **Tidak merusak data asli**
-- 🚀 **Bisa berkembang dari script kecil menjadi tool lengkap**
-
-> **"Kalau sebuah proses harus dilakukan berulang kali, lebih baik dibuatkan tool."**
 
 --- The End #
