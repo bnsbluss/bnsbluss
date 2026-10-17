@@ -2,7 +2,7 @@
 
 > **Independent Developer • Game Tools Builder • Point Blank Server Administrator • Computer & Laptop Enthusiast**
 
-Saya adalah developer yang banyak mengerjakan **tools, server, modding, reverse engineering format file game, dan otomasi**—terutama di ekosistem **Point Blank**. Saya lebih suka membangun tool yang benar-benar menyelesaikan masalah daripada sekadar membuat prototype.
+Saya adalah developer yang banyak mengerjakan **tools, server, modding, rekayasa file game, dan otomasi**—terutama di ekosistem **Point Blank**. Saya lebih suka membangun tool yang benar-benar menyelesaikan masalah daripada sekadar membuat prototype.
 
 Saya tertarik membongkar cara kerja sebuah sistem dari level data/file hingga menjadi tool yang mudah digunakan. Dari format binary seperti `.I3S`, `.I3CHR`, `.i3Pack`, `.RSC`, dan `.i3AnimPack`, sampai server game, web panel, database, pembayaran, dan watchdog Windows.
 
